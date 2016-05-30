@@ -1,1 +1,1 @@
-# docker-java
+# Java container for JVM based application deployment
