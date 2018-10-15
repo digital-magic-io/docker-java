@@ -1,4 +1,4 @@
-FROM java:8
+FROM openjdk:8
 MAINTAINER Jevgeni Goloborodko <jevgeni@digital-magic.io>
 
 USER root
